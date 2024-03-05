@@ -7,6 +7,7 @@ Overview:
 The Student Management System is a powerful tool designed to streamline academic processes with efficiency and precision. Developed in C++, this system empowers users to seamlessly handle student data, track progress, and generate insightful reports.
 
 Features:
+
 📚 Manage student records effortlessly.
 
 🔍 Search, add, edit, and delete student entries with ease.
@@ -31,7 +32,7 @@ Getting Started:
 
 4. Compile and run the code to start using the Student Management System.
 
-5. 
+
 
 Contributing:
 
